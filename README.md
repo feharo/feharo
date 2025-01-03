@@ -34,11 +34,6 @@ Sou desenvolvedor de software, especialista em segurança cibernética e entusia
 - Uso de plataformas como **Digital Ocean**, **Cloudflare** e **Google Cloud Platform**.
 - Automação de backups e scripts para tarefas recorrentes.
 
-### 🎮 Projetos de Destaque
-- Desenvolvimento de **jogos dinâmicos de cassino** integrados com links afiliados.
-- Criação de **dashboards analíticos** para sistemas financeiros e imobiliários.
-- Integrações avançadas com APIs, incluindo criptomoedas e serviços financeiros.
-
 ---
 
 ## 📊 Estatísticas do GitHub
