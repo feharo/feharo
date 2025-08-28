@@ -2,4 +2,6 @@ Sou Felipe Aquino, CEO da Feharo Tech e engenheiro de software com mais de 8 ano
 
 Disponível para consultoria técnica, parcerias e posições estratégicas.
 
-Contato: felipe@feharo.com.br | https://feharo.com.br | https://linkedin.com/in/feharo | WhatsApp Comercial: +55 11 91755-0930.
+Contato: felipe@feharo.com.br | https://feharo.com.br | https://linkedin.com/in/feharo
+
+WhatsApp Comercial: +55 11 91755-0930.
