@@ -1,49 +1,5 @@
-# Olá, sou Felipe Aquino! 👋
+Sou Felipe Aquino, CEO da Feharo Tech e engenheiro de software com mais de 8 anos de experiência em inovação tecnológica e segurança cibernética. Atuo no desenho e implementação de arquiteturas escaláveis, desenvolvimento de APIs e aplicações web, além de conduzir avaliações de segurança, pentests e mitigação de ameaças (incluindo DDoS), com foco em qualidade, performance e conformidade. Trabalho com JavaScript/TypeScript, PHP e Python; frameworks como React, Node.js e Laravel; bancos PostgreSQL, MySQL e SQLServer; e práticas DevOps (Linux, Docker, CI/CD, Cloudflare, DigitalOcean e GCP). Tenho experiência em projetos para os setores financeiro, criptomoedas, jogos (casinos), saúde e imobiliário, e sou colaborador ativo em iniciativas open‑source.
 
-Sou desenvolvedor de software, especialista em segurança cibernética e entusiasta de inovação tecnológica. Com mais de **8 anos de experiência**, ajudo empresas a criar sistemas robustos, identificar vulnerabilidades e proteger seus ativos digitais, além de desenvolver soluções em diversas áreas, como **setor financeiro, criptomoedas, criação de games (casinos), saúde, imobiliário** e outros.
+Disponível para consultoria técnica, parcerias e posições estratégicas.
 
----
-
-## 🚀 Sobre Mim
-
-- 🔭 Atualmente, atuo em projetos pela **Feharo Tech**, oferecendo desenvolvimento de software, segurança da informação e consultoria tecnológica.
-- 🌱 Sempre aprendendo! Atualmente, me especializando em **pentestes avançados**, **mitigação de ataques** e **integrações complexas de API**.
-- 🎯 Missão: **Ajudar empresas a inovar, proteger suas informações e operar com eficiência em um ambiente digital em constante evolução.**
-
----
-
-## 🛠️ Minhas Habilidades
-
-### 🌐 Segurança Cibernética
-- Verificação e exploração de falhas em sistemas e APIs.
-- Realização de pentestes (testes de intrusão).
-- Mitigação de ataques DDoS e outras ameaças.
-- Configuração de firewall e análise de logs para identificação de anomalias.
-- Consultorias e conscientização de segurança da informação.
-
-### 💻 Desenvolvimento de Software
-- **Linguagens:** JavaScript, PHP, TypeScript, Python.
-- **Frameworks:** Laravel, React, Node.js.
-- **Desenvolvimento de APIs:** RESTful e SOAP.
-- **Banco de Dados:** PostgreSQL, MySQL, SQLServer.
-
-### 🔧 DevOps e Infraestrutura
-- Gerenciamento de servidores Linux com **Apache** ou **Nginx**.
-- Instalação e renovação de **certificados SSL**.
-- Configuração de ambientes para aplicativos com Docker.
-- Uso de plataformas como **Digital Ocean**, **Cloudflare** e **Google Cloud Platform**.
-- Automação de backups e scripts para tarefas recorrentes.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<a href="https://github.com/feharo#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=feharo&theme=default"/></a><a href="https://github.com/feharo#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=feharo&theme=tokyonight"/></a>
-
----
-
-## 🌐 Contato
-
-- **LinkedIn:** [Felipe Aquino](https://www.linkedin.com/in/felipeaquinobr)
-- **E-mail:** felipe@feharo.com.br
-- **WhatsApp Comercial:** +55 11 91755-0930
+Contato: felipe@feharo.com.br | https://feharo.com.br | https://linkedin.com/in/feharo | WhatsApp Comercial: +55 11 91755-0930.
