@@ -2,6 +2,5 @@ Sou Felipe Aquino, engenheiro de software com mais de 8 anos de experiência em 
 
 Disponível para consultoria técnica, parcerias e posições estratégicas.
 
-Contato: felipe@feharo.com.br | https://feharo.com.br | https://linkedin.com/in/feharo
+Contato: https://linkedin.com/in/feharo
 
-WhatsApp Comercial: +55 11 91755-0930.
